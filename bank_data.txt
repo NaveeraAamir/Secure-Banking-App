@@ -1,0 +1,2 @@
+Naveera|3520285562330|03326962078|100020.0|Account created with initial deposit: $100010.0;Deposited: $10.0 | Balance: $100020.0;Received PKR 10.0 from ACC-1002
+Afnan|3320349987151|03102502773|9890.0|Account created with initial deposit: $9900.0;Withdrew: $10.0 | Balance: $9890.0;Deposited: $10.0 | Balance: $9900.0;Transferred PKR 10.0 to ACC-1002;Received PKR 10.0 from ACC-1002;Withdrew: $10.0 | Balance: $9890.0;Transferred PKR 10.0 to ACC-1001
